@@ -1,2 +1,2 @@
 # Practicandoconlaweb.github.io
-Página sobre el aprendizaje de HTML, CSS, JavaScript, y todo lo que tenga que ver con diseño web
+No sé que carajos estoy haciendo acá, pero holi
